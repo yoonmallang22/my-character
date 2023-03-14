@@ -17,6 +17,14 @@ body {
   );
 }
 
+.jigu,
+[class^="ground"],
+[class$="cheek"],
+.mouth,
+.tongue {
+  border: 3px solid #000;
+}
+
 .jigu {
   background-color: rgb(74, 101, 251);
   width: 500px;
