@@ -67,20 +67,16 @@ body {
 
 [class$="cheek"] {
   background-color: pink;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  top: 45%;
   position: absolute;
 }
 .left-cheek {
-  width: 80px;
-  height: 50px;
-  border-radius: 50%;
-  top: 45%;
   left: 17%;
 }
 .right-cheek {
-  width: 80px;
-  height: 50px;
-  border-radius: 50%;
-  top: 45%;
   right: 17%;
 }
 
